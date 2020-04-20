@@ -1,0 +1,7 @@
+{
+    "python.pythonPath": "C:\\Program Files\\Python38\\python.exe",
+    "editor.accessibilityPageSize": 12,
+    "editor.fontSize": 15,
+    "python.autoComplete.addBrackets": true,
+    "python.jediEnabled": false,
+}
