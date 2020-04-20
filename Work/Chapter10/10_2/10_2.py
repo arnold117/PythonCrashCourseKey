@@ -1,4 +1,4 @@
-filename = r'${FileDir}\learning_python.py'
+filename = r'${FileDir}\learning_python.txt'
 
 with open(filename) as f:
     lines = f.readlines()
